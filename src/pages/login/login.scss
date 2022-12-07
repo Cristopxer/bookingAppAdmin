@@ -10,6 +10,9 @@
     flex-direction: column;     
     gap: 10px;
 }
+.lContainer>h1{
+    text-align: center;
+}
 .lContainer>hr{
     border: 1px solid lightgray;    
 }
